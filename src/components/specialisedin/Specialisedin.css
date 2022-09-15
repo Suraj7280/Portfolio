@@ -1,0 +1,28 @@
+.specialisedin-Container{
+    padding-left: 28%;
+    padding-top:1rem;
+}
+.card{
+    max-width: 530px;
+    
+}
+.col-md-3{
+    text-align: center;
+    
+}
+.col-md-2{
+    height:90%;
+    width:90%;
+    margin-top:5px;
+    color:rgb(250, 90, 84);
+}
+.card-col{
+    box-shadow: 1px 2px 9px #4fb2f9f5;
+    max-width: 530px;
+    
+   
+}
+.progress-bar{
+    width: 70%
+}
+

@@ -1,8 +1,10 @@
-.container{
-    margin-top: 8rem;
+.container2{
+    margin: 0rem;
 }
 .child1{
     font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-top: 10%;
+    padding-left: 25%;
 }
 .design{
     color:rgb(198, 25, 16);
@@ -13,4 +15,6 @@
     margin-top: 1rem;
     margin-bottom: 3rem;
 }
-
+.shado{
+    filter: drop-shadow(0.3rem 0.5rem 0.15rem rgb(204, 189, 192));
+}

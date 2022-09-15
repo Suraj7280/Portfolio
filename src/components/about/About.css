@@ -1,0 +1,21 @@
+.about-container{
+    padding-left: 0%;
+    padding-top:0rem;
+    
+}
+.academic1 {
+    padding-left: 28%;
+    padding-top: 1rem;
+    position: static;
+    overflow: hidden;
+}
+.heading1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 2rem;
+    
+}
+.about-container1{
+    font-size: 100%;
+    margin-top: 1.0rem;
+    font-family:'Times New Roman', Times, serif
+}
